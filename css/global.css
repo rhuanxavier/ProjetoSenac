@@ -1,0 +1,7 @@
+body {font-family: "Lato", sans-serif}
+.mySlides {display: none}
+
+/* Estilos dos artigos */
+.nWhite { background: #ffffff; color: #000000; }
+.nBlack { background: #000000; color: #ffffff; }
+.nWhite, .nBlack { text-align: center; padding: 80px; }
