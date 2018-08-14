@@ -23,7 +23,7 @@ require ('_header.php');
   <div class="mySlides w3-display-container w3-center">
     <img src="img/trab3.jpg" style="width:100%">
     <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
-      <h3>Chicago</h3>
+      <h3>Riachuelo</h3>
       <p><b>Dando uma entrevista para MTV.</b></p>    
     </div>
   </div>
